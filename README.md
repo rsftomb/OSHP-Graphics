@@ -1,5 +1,7 @@
 # Ohio State Highway Patrol
 
+- OSHP 2019 Tahoe Ver 1 [Released 7/23/24]
+- OSHP 2019 Tahoe MCE Ver 1 [Released 7/23/24]
 
 
 # GTAV/FiveM DDS Textures by Trooper Leary
